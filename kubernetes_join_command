@@ -1,1 +1,1 @@
-kubeadm join 192.168.33.31:6443 --token gz4ekp.cdxrb1mjmz2dd885 --discovery-token-ca-cert-hash sha256:f500f97f5fc6d308a48cbcc98264ae58464a5d99069bc886a9dfae6510e2ee6b
+
